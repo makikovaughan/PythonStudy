@@ -5,3 +5,4 @@
 2. script.py: Customer's shopping list and price
 3. magic8.py: Magic ball 
 4. shipping.py: Calculate costs of the shipping 
+5. grade_script.py: Manage grade list
