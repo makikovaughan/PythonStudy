@@ -9,3 +9,4 @@
 6. pizza.py: Manage Pizza price and toppings
 7. tuples_and_zip.py: Practice tuples and zip()
 8. carlys_clip.py: Practice loops
+9. physics.py: Calculate temperature conversion, force, energy, and work
