@@ -10,3 +10,4 @@
 7. tuples_and_zip.py: Practice tuples and zip()
 8. carlys_clip.py: Practice loops
 9. physics.py: Calculate temperature conversion, force, energy, and work
+10. thread_shed.py: Create a list of customers, sales, and thread_sold from the csv data
