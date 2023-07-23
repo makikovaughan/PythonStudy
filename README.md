@@ -14,4 +14,5 @@
 10. thread_shed.py: Create a list of customers, sales, and thread_sold from the csv data
 11. coded_correspondence.ipynb: Use jupyter notebook to program cipher
 12. scrabble.py: Manipulate dictinaries by creating word scores for players
-13. Abruptly Goblins Planner.ipynb: Off-Platform Project: Abruptly Goblins 
+13. Abruptly Goblins Planner.ipynb: Off-Platform Project: Abruptly Goblins
+14. Hacking The Fender: Write and read files(csv, json, txt)
