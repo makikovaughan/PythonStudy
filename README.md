@@ -16,4 +16,4 @@
 12. scrabble.py: Manipulate dictinaries by creating word scores for players
 13. Abruptly Goblins Planner.ipynb: Off-Platform Project: Abruptly Goblins
 14. Hacking The Fender: Write and read files(csv, json, txt)
-15. Basta Fazoolin': Created 3 classes, Menu, Franchise, and Business
+15. Basta Fazoolin'(restaurant.py): Created 3 classes, Menu, Franchise, and Business
